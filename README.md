@@ -1,2 +1,7 @@
-# mesto-frontend
-frontend for mesto project from yandex practicum 
+# Проектная работа Mesto
+
+# Функционал:
+
+    - Изменение данных в профиле
+    - Добавление новых карточек
+    - Валидация форм
